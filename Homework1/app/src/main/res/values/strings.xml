@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sz今天吃什么</string>
+    <string name="true_button">吃！</string>
+    <string name="false_button">不吃！</string>
+    <string name="eat_M">吃麦当劳吗？</string>
+    <string name="true_feedback">天天去吃，作业写完了吗？</string>
+    <string name="false_feedback">快去写作业！</string>
+</resources>
