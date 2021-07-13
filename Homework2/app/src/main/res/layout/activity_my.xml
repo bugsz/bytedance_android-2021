@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyActivity"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/practiceActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jump to practiceActivity"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/baidu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jump to baidu"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jump to call"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/recycler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jump to recycler"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/UI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jump to UI"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

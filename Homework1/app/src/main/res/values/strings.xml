@@ -5,4 +5,8 @@
     <string name="eat_M">吃麦当劳吗？</string>
     <string name="true_feedback">天天去吃，作业写完了吗？</string>
     <string name="false_feedback">快去写作业！</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>

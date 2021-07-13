@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="baidu">百度</string>
+    <string name="phone">phone</string>
+    <string name="congratulation">恭喜你成为大力自习室中最优秀的坐姿模范生！</string>
+    <string name="owner">坐姿模范生</string>
+    <string name="obtain_date">2020-02-16 获得</string>
+    <string name="con_num">表扬次数 50/50 次</string>
+    <string name="gotostudy">去自习</string>
+
+</resources>
