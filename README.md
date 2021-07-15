@@ -14,3 +14,7 @@
 
 + 完成了所有实验。包括各种动画的设计，以及viewpager和fragment的使用。
 + 完成效果见Homework3/screenshot
+
+### Homework
++ 完成了时钟的设计
++ 效果见Homework4/screenshot
