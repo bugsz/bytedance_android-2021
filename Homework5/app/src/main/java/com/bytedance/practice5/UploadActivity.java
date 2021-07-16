@@ -235,24 +235,7 @@ public class UploadActivity extends AppCompatActivity {
                     os.write(("\r\n--" + Constants.BOUNDARY + "--\r\n").getBytes());
                     os.flush();
                     Log.d("TAG", body.toString());
-/*
-                    postForm form = new postForm();
-                    form.setTo(to);
-                    form.setFrom(Constants.USER_NAME);
-                    form.setContent(content);
-                    form.setImage(
-                            MultipartBody.Part.createFormData(
-                                    "image", "upload.jpg",
-                                    RequestBody.create(MediaType.parse("multipart/form_data"), coverImageData))
-                    );
 
-                    byte [] body = new Gson().toJson(form).getBytes();
-
-                    conn.getOutputStream().write(body);
-                    conn.getOutputStream().flush();
-                    Log.d("TAG", new Gson().toJson(form));
-                    Log.d("TAG", Integer.toString(conn.getResponseCode()));
-*/
                     if(conn.getResponseCode() == 200){
                         BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream(), StandardCharsets.UTF_8));
                         UploadResponse response = new Gson().fromJson(reader, new TypeToken<UploadResponse>() {
