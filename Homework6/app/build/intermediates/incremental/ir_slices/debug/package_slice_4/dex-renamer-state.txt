@@ -1,0 +1,4 @@
+#Mon Jul 19 17:57:55 CST 2021
+base.0=E\:\\Users\\sz\\Desktop\\2020_2021_2\\2021_7-bytedance\\bytedance_android-2021\\Homework6\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
