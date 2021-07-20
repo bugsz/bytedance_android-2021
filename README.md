@@ -29,3 +29,8 @@
 
 + 完成简易Todo-List的制作
 + 完成效果见Homework6/screenshot
+
+### Homework7
+
++ 完成简易播放器和进度条的制作
++ 完成效果见Homework7/screenshot

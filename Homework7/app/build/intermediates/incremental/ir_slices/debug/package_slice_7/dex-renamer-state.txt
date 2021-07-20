@@ -1,0 +1,4 @@
+#Tue Jul 20 19:32:48 CST 2021
+base.0=E\:\\Users\\sz\\Desktop\\2020_2021_2\\2021_7-bytedance\\new\\android-campus-2021\\chapter-7\\MediaWorksDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
