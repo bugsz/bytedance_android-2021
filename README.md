@@ -34,3 +34,8 @@
 
 + 完成简易播放器和进度条的制作
 + 完成效果见Homework7/screenshot
+
+### Homework8
+
++ 完成简易相机制作
++ 完成效果见Homework8/screenshot
